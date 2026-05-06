@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\bin\Debug\net10.0\area_volumen.exe
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\bin\Debug\net10.0\area_volumen.deps.json
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\bin\Debug\net10.0\area_volumen.runtimeconfig.json
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\bin\Debug\net10.0\area_volumen.dll
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\bin\Debug\net10.0\area_volumen.pdb
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.sourcelink.json
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.dll
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\refint\area_volumen.dll
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.pdb
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\area_volumen.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Desktop\Practica_personal\area_volumen\obj\Debug\net10.0\ref\area_volumen.dll
