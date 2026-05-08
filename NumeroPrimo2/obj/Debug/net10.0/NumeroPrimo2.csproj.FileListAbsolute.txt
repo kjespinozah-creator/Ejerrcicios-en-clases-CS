@@ -1,0 +1,15 @@
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\bin\Debug\net10.0\NumeroPrimo2.exe
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\bin\Debug\net10.0\NumeroPrimo2.deps.json
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\bin\Debug\net10.0\NumeroPrimo2.runtimeconfig.json
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\bin\Debug\net10.0\NumeroPrimo2.dll
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\bin\Debug\net10.0\NumeroPrimo2.pdb
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.sourcelink.json
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.dll
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\refint\NumeroPrimo2.dll
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.pdb
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\NumeroPrimo2.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Desktop\Practica_personal\NumeroPrimo2\obj\Debug\net10.0\ref\NumeroPrimo2.dll

@@ -1,0 +1,14 @@
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\bin\Debug\net10.0\SumaArreglo.exe
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\bin\Debug\net10.0\SumaArreglo.deps.json
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\bin\Debug\net10.0\SumaArreglo.runtimeconfig.json
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\bin\Debug\net10.0\SumaArreglo.dll
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\bin\Debug\net10.0\SumaArreglo.pdb
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\SumaArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\SumaArreglo.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\SumaArreglo.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\SumaArreglo.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\SumaArreglo.dll
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\refint\SumaArreglo.dll
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\SumaArreglo.pdb
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\SumaArreglo.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Desktop\27 de marzo de 2026\SumaArreglo\obj\Debug\net10.0\ref\SumaArreglo.dll
